@@ -56,3 +56,8 @@ $ passenger-config restart-app
 then `$ exit` to return to ubuntu admin
 
 See [Phusion Passenger Docs](https://www.phusionpassenger.com/library/) for more info
+
+## What the bot feeds to the dedicated telegram channel
+
+![image](https://user-images.githubusercontent.com/39015652/103176843-25c45580-48b0-11eb-8b4f-6ebac949b868.png)
+
